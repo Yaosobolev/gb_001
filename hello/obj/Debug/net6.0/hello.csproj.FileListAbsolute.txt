@@ -1,0 +1,15 @@
+C:\Users\yaoso\Desktop\gekc\hello\bin\Debug\net6.0\hello.exe
+C:\Users\yaoso\Desktop\gekc\hello\bin\Debug\net6.0\hello.deps.json
+C:\Users\yaoso\Desktop\gekc\hello\bin\Debug\net6.0\hello.runtimeconfig.json
+C:\Users\yaoso\Desktop\gekc\hello\bin\Debug\net6.0\hello.dll
+C:\Users\yaoso\Desktop\gekc\hello\bin\Debug\net6.0\hello.pdb
+C:\Users\yaoso\Desktop\gekc\hello\obj\Debug\net6.0\hello.csproj.AssemblyReference.cache
+C:\Users\yaoso\Desktop\gekc\hello\obj\Debug\net6.0\hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaoso\Desktop\gekc\hello\obj\Debug\net6.0\hello.AssemblyInfoInputs.cache
+C:\Users\yaoso\Desktop\gekc\hello\obj\Debug\net6.0\hello.AssemblyInfo.cs
+C:\Users\yaoso\Desktop\gekc\hello\obj\Debug\net6.0\hello.csproj.CoreCompileInputs.cache
+C:\Users\yaoso\Desktop\gekc\hello\obj\Debug\net6.0\hello.dll
+C:\Users\yaoso\Desktop\gekc\hello\obj\Debug\net6.0\refint\hello.dll
+C:\Users\yaoso\Desktop\gekc\hello\obj\Debug\net6.0\hello.pdb
+C:\Users\yaoso\Desktop\gekc\hello\obj\Debug\net6.0\hello.genruntimeconfig.cache
+C:\Users\yaoso\Desktop\gekc\hello\obj\Debug\net6.0\ref\hello.dll
